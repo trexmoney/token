@@ -1,4 +1,4 @@
-# T. Rex Money contracts
+# T. Rex token contracts
 
 This repo contains contracts related to T. Rex Money.
 
