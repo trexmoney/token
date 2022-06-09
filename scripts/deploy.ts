@@ -1,4 +1,4 @@
-import { run, ethers, network } from "hardhat";
+import { run, ethers } from "hardhat";
 import { verify } from "../helper-functions";
 
 async function main() {
